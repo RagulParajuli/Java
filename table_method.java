@@ -16,4 +16,11 @@ public class table_method {
         int table = table(n);
 
     }
+
+
+    /*
+     if our sub method doesn't include static the we need to create new object so that we can access main method which is static
+     Eg: <class name> obj = new <class name>;
+        int var = obj.(sub method);
+     */
 }
