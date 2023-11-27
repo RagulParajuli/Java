@@ -25,7 +25,6 @@ public class encap {
         h1.setAge(19);
 
         System.out.println(h1.getName()+" : "+h1.getAge()+" from "+h1.getClass());
-
-
+        
     }
 }
