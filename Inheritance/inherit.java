@@ -5,7 +5,7 @@ import java.util.Scanner;
 class rectangle{
     int l, b;
     void userInput(){
-        try (Scanner input = new Scanner(System.in)) {
+        try(Scanner input = new Scanner(System.in)) {
             System.out.println("Enter Lengths and Breaths");
              l = input.nextInt();
              b = input.nextInt();
