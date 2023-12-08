@@ -23,7 +23,6 @@ class CellPhone{
     public void callFriend(){
         System.out.println("Calling Mukul...");
     }
-
 }
 
 class Square{
@@ -58,6 +57,7 @@ class Tommy{
         System.out.println("Firing on the enemy");
     }
 }
+
 class circle{
     float radius;
     float height;

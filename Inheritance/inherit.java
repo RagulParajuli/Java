@@ -1,5 +1,4 @@
 package Inheritance;
-
 import java.util.Scanner;
 
 class rectangle{

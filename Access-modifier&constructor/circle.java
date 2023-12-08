@@ -10,7 +10,7 @@ class Circle{
         }
         else{
             System.out.println("Wrong Type");
-        }      
+        }
     }
 
      public void setheight(float ht){
