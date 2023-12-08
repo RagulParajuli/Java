@@ -1,3 +1,4 @@
+
 class Except{
     public static void main(String[] args) {
         int i = 0;
@@ -10,5 +11,6 @@ class Except{
         }
         System.out.println(j);
         System.out.println("Rest of the code");
-    } 
+        
+    }
 }

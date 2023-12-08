@@ -6,10 +6,10 @@ public class Throw {
             j = 8/i;
             if (j == 0) {
                 throw new ArithmeticException("I can't print zero");
-                // it throws the Exception message which we need the user to see
-                // even if the program run without catch block
-            }
-        } 
+                /*  it throws the Exception message which we need the user to see
+                 even if the program run without catch block */
+        }
+    }
         catch(ArithmeticException e){
             j=1;
             System.out.println("cannot divided by zero "+e);

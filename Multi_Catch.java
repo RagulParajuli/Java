@@ -1,3 +1,4 @@
+
 public class Multi_Catch {
     public static void main(String[] args) {
         int i = 3;
@@ -18,7 +19,8 @@ public class Multi_Catch {
         }
         catch(Exception e){
             System.out.println("Something went worng");
-        } 
+        }
         System.out.println("Rest of the code");
+        
     }
 }
